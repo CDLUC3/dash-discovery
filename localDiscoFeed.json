@@ -1,0 +1,53 @@
+[
+
+{
+ "entityID": "urn:mace:incommon:berkeley.edu",
+ "DisplayNames": [
+  {
+  "value": "University of California, Berkeley",
+  "lang": "en"
+  }
+ ]
+},
+
+{
+ "entityID": "urn:mace:incommon:uci.edu",
+ "DisplayNames": [
+  {
+  "value": "University of California-Irvine",
+  "lang": "en"
+  }
+ ]
+},
+
+{
+ "entityID": "urn:mace:incommon:ucla.edu",
+ "DisplayNames": [
+  {
+  "value": "University of California, Los Angeles",
+  "lang": "en"
+  }
+ ]
+},
+
+{
+ "entityID": "urn:mace:incommon:ucmerced.edu",
+ "DisplayNames": [
+  {
+  "value": "University of California, Merced",
+  "lang": "en"
+  }
+ ]
+},
+
+{
+ "entityID": "urn:mace:incommon:ucop.edu",
+ "DisplayNames": [
+  {
+  "value": "University of California, Office of the President",
+  "lang": "en"
+  }
+ ]
+}
+
+]
