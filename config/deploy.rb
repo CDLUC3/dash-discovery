@@ -5,8 +5,7 @@ set :application, 'dash-discovery'
 set :repo_url, 'git@github.com:CDLUC3/dash-discovery.git'
 
 # Default branch is :master
-# set :branch, 'master'
-set :branch, 'development'
+set :branch, 'master'
 # ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }.call
 
 # Default deploy_to directory is /var/www/my_app
