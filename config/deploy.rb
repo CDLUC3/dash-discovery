@@ -9,7 +9,7 @@ set :branch, 'development'
 # ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }.call
 
 # Default deploy_to directory is /var/www/my_app
-set :deploy_to, '/apps/dash/apache/htdocs/dash-dev'
+set :deploy_to, '/apps/dash/apps/apache/htdocs/dash-dev'
 
 # Default value for :scm is :git
 set :scm, :git
