@@ -31,6 +31,16 @@
 },
 
 {
+ "entityID": "urn:mace:incommon:ucmerced.edu",
+ "DisplayNames": [
+  {
+  "value": "University of California, Merced",
+  "lang": "en"
+  }
+ ]
+},
+
+{
  "entityID": "urn:mace:incommon:ucop.edu",
  "DisplayNames": [
   {
