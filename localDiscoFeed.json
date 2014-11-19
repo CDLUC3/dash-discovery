@@ -11,6 +11,36 @@
 },
 
 {
+ "entityID": "urn:mace:incommon:lbl.gov",
+ "DisplayNames": [
+  {
+  "value": "Lawrence Berkeley National Laboratory",
+  "lang": "en"
+  }
+ ],
+ "InformationURLs": [
+  {
+  "value": "https://commons.lbl.gov/display/IDMgmt/Web+Single+Sign+On+at+LBNL",
+  "lang": "en"
+  }
+ ],
+ "PrivacyStatementURLs": [
+  {
+  "value": "http://www.lbl.gov/Disclaimers.html",
+  "lang": "en"
+  }
+ ],
+ "Logos": [
+  {
+  "value": "https://commons.lbl.gov/download/attachments/58393603/lbl-logo-scaled.png",
+  "height": "111",
+  "width": "130",
+  "lang": "en"
+  }
+ ]
+},
+
+{
  "entityID": "urn:mace:incommon:uci.edu",
  "DisplayNames": [
   {
