@@ -41,6 +41,16 @@
 },
 
 {
+ "entityID": "urn:mace:incommon:ucsc.edu",
+ "DisplayNames": [
+  {
+  "value": "University of California, Santa Cruz",
+  "lang": "en"
+  }
+ ]
+},
+
+{
  "entityID": "urn:mace:incommon:uci.edu",
  "DisplayNames": [
   {
