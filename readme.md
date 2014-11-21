@@ -10,6 +10,7 @@ When adding new institutions to Dash which are Shibboleth enabled, you need to a
 **Deploy command** 
 
 `$ cap <development> deploy`
-replace <development> with name of environment  (development | stage | production) 
+
+replace < development > with name of environment  (development | stage | production) 
 
 
